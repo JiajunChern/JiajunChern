@@ -7,7 +7,7 @@
 
 ### 💻 Internships
 
-- *2024.06 - 2024.08:* Huawei, Consumer BG Software Engineering Dept, Wuhan.
+- *2024.07 - 2024.08:* Huawei, Consumer BG Software Engineering Dept, Wuhan.
 
 <!--
 **JiajunChern/JiajunChern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
