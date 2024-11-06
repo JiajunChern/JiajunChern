@@ -1,9 +1,15 @@
 ## Hi 👋 I am Jiajun Chen
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiajunChern&layout=compact" /> 
+
+
 ### 👋 About Me
+
 
 🔭 I'm a M.S. student at Hunan University, advised by Prof. [Zhiyong Li](http://csee.hnu.edu.cn/people/lizhiyong) and Prof. [Kailun Yang](https://yangkailun.com/).      
 🌱 I'm looking for a job in software development.
+
+
 
 ### 💻 Internships
 
