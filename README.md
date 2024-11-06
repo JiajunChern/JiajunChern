@@ -6,7 +6,7 @@
 ### 👋 About Me
 
 
-🔭 I'm a M.S. student at Hunan University, advised by Prof. [Zhiyong Li](http://csee.hnu.edu.cn/people/lizhiyong) and Prof. [Kailun Yang](https://yangkailun.com/).      
+🔭 I'm a M.S. student at Hunan University, advised by Prof. [Zhiyong Li](http://csee.hnu.edu.cn/people/lizhiyong).      
 🌱 I'm looking for a job in software development.
 
 
