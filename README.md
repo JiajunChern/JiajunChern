@@ -15,6 +15,10 @@
 
 - *2024.06 - 2024.08:* Huawei, Consumer BG Software Engineering Dept, Wuhan.
 
+### 📝 Publications
+
+- *2024.11:* One paper is accepted by IEEE TIM, with the guidance of Dr. [JiaCheng Lin](https://scholar.google.com.hk/citations?user=rFiGjVEAAAAJ&hl=zh-CN).
+
 <!--
 **JiajunChern/JiajunChern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
