@@ -3,11 +3,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiajunChern&layout=compact" /> 
 
 
-### 👋 About Me
+### 🌱 About Me
 
 
-🔭 I'm a M.S. student at Hunan University, advised by Prof. [Zhiyong Li](http://csee.hnu.edu.cn/people/lizhiyong).      
-🌱 I'm looking for a job in software development.
+- I'm a M.S. student at Hunan University, advised by Prof. [Zhiyong Li](http://csee.hnu.edu.cn/people/lizhiyong).      
+- I'm looking for a job in software development.
 
 
 
