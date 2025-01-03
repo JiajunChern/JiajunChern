@@ -18,7 +18,7 @@
 
 ### 📝 Publications
 
-- *2024.11:* *"Multi-granularity Localization Transformer with Collaborative Understanding for Referring Multi-Object Tracking"* is accepted by IEEE TIM, with the guidance of Dr. [Jiacheng Lin](https://scholar.google.com.hk/citations?user=rFiGjVEAAAAJ&hl=zh-CN).
+- *2024.11:* *"Multigranularity Localization Transformer with Collaborative Understanding for Referring Multiobject Tracking"*, IEEE TIM.
 
 <!--
 **JiajunChern/JiajunChern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
