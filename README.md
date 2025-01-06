@@ -3,7 +3,7 @@
 
 ### 🌱 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiajunChern&layout=compact&langs_count=12" /> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiajunChern&layout=compact&langs_count=10" /> 
 
 
 - I'm a M.S. student majoring in artificial intelligence at Hunan University, advised by Prof. [Zhiyong Li](http://csee.hnu.edu.cn/people/lizhiyong), Prof. [Kailun Yang](https://yangkailun.com/), and Dr. [Jiacheng Lin](https://scholar.google.com.hk/citations?user=rFiGjVEAAAAJ&hl=zh-CN). Before that, I received my B.S. degree at Guangdong University of Technology.  
