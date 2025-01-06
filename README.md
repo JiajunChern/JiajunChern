@@ -6,7 +6,7 @@
 ### 🌱 About Me
 
 
-- I'm a M.S. student majoring in artificial intelligence at Hunan University, advised by Prof. [Zhiyong Li](http://csee.hnu.edu.cn/people/lizhiyong), Prof. [Kailun Yang](https://yangkailun.com/), and Dr [Jiacheng Lin](https://scholar.google.com.hk/citations?user=rFiGjVEAAAAJ&hl=zh-CN). Before that, I received my B.S. degree at Guangdong University of Technology.  
+- I'm a M.S. student majoring in artificial intelligence at Hunan University, advised by Prof. [Zhiyong Li](http://csee.hnu.edu.cn/people/lizhiyong), Prof. [Kailun Yang](https://yangkailun.com/), and Dr. [Jiacheng Lin](https://scholar.google.com.hk/citations?user=rFiGjVEAAAAJ&hl=zh-CN). Before that, I received my B.S. degree at Guangdong University of Technology.  
 - I'm looking for a job in software development.
 
 
