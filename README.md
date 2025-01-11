@@ -18,6 +18,7 @@
 
 ### 📝 Publications
 
+- *2025.01:* *"Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation"*, KBS.
 - *2024.11:* *"Multigranularity Localization Transformer with Collaborative Understanding for Referring Multiobject Tracking"*, IEEE TIM.
 
 <!--
