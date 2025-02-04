@@ -13,13 +13,9 @@
 
 ### 💻 Internships
 
-- *2024.12 - Now:* SHEIN, Product Development Back-end Group, Guangzhou.
+- *2024.12 - 2025.02:* SHEIN, Product Development Back-end Group, Guangzhou.
 - *2024.06 - 2024.08:* Huawei, Consumer BG Software Engineering Dept., Wuhan.
 
-### 📝 Publications
-
-- *2025.01:* *"Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation"*, KBS.
-- *2024.11:* *"Multigranularity Localization Transformer with Collaborative Understanding for Referring Multiobject Tracking"*, IEEE TIM.
 
 <!--
 **JiajunChern/JiajunChern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
