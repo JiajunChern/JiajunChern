@@ -14,7 +14,7 @@
 ### 💻 Internships
 
 - *2024.12 - 2025.02:* SHEIN, Product Development Back-end Group, Guangzhou.
-- *2024.06 - 2024.08:* Huawei, Consumer BG Software Engineering Dept., Wuhan.
+- *2024.06 - 2024.08:* Huawei, Consumer BG Software Engineering Department, Wuhan.
 
 
 <!--
