@@ -1,13 +1,20 @@
 ## Hi 👋 I am Jiajun Chen
 
-### 👋 About Me
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiajunChern&layout=compact&langs_count=10" /> 
 
-🔭 I'm a M.S. student at Hunan University, advised by Prof. [Zhiyong Li](http://robotics.hnu.edu.cn/info/1071/1515.htm) and Prof. [Kailun Yang](https://yangkailun.com/).      
-🌱 I'm looking for a job in software development.
+### 🌱 About Me
+
+
+- I'm a master's student at Hunan University. 
+- I'm looking for a job in software development.
+
+
 
 ### 💻 Internships
 
-- *2024.06 - 2024.08:* Huawei, Consumer BG Software Engineering Dept, Wuhan.
+- *2024.12 - 2025.03:* SHEIN, Product Intelligent Strategy Team, Guangzhou.
+- *2024.06 - 2024.08:* Huawei, Consumer BG Software Dept., Wuhan.
+
 
 <!--
 **JiajunChern/JiajunChern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
