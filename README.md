@@ -5,8 +5,8 @@
 ### 🌱 About Me
 
 
-- I'm a master's student at Hunan University. 
-- I'm looking for a job in software development.
+- I obtained my master degree in 2025 from Hunan University. 
+- I'm seeking the role that will level me up.
 
 
 
